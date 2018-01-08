@@ -9,7 +9,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   return function secondaryanimal(){
-     return animal = 'cat';
+      animal = 'cat';
   }
   return animal
 }
